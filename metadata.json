@@ -1,0 +1,6 @@
+{
+  "name": "Dulce Tentación - Donas Artesanas & AI Ecommerce",
+  "description": "Plataforma ecommerce gourmet de donas artesanas en Gualanday, Tolima. Extracción inteligente de documentos e inventario con IA, configurador 3D, verificación de clientes y seguimiento en vivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
